@@ -85,7 +85,7 @@
         }
     </style>
 </head>
-<body id="background">
+<body>
     <form runat="server">
         <asp:ScriptManager runat="server">
             <Scripts>
