@@ -47,9 +47,6 @@
         div#container {
             margin-top: 20px;
         }
-        body#background {
-            background-image:url('images/bg.png');
-        }
         #book {
             background-color: white;
             padding: 20px 0;
