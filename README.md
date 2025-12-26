@@ -25,7 +25,7 @@ This project was built as an academic project to apply full-stack web developmen
 - JavaScript
 
 **Backend**
-- ASP.NET
+- ASP.NET Web Forms
 - C#
 
 **Database**
